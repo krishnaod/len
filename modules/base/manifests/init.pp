@@ -1,5 +1,0 @@
-class base {
-
-  include ::ntp
-  
- }
